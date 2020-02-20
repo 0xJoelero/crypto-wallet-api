@@ -6,11 +6,9 @@ This rest-api is made with:
 * Mongoose,
 * Express 
 
-For Ripio wallet app made with react-native.
-
 ### Clone repo
 ```
-$ git clone https://github.com/joelpereda/rest-api.git
+$ git clone https://github.com/joelperedaok/rest-api.git
 ```
 
 ### Install dependencies
